@@ -1,13 +1,11 @@
 import { useEffect, useState } from 'react'
 import {
-  faAngular,
   faCss3,
   faGitAlt,
   faHtml5,
   faJsSquare,
   faNodeJs,
   faReact,
-  faVuejs,
 } from '@fortawesome/free-brands-svg-icons'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
@@ -40,8 +38,8 @@ const About = () => {
           </p>
           <p>
             If I need to define myself in one sentence that would be a Fun
-            person, I love Coding and Programming, a sports fanatic,
-            Outdoors enthusiast, and tech-obsessed!!!
+            person, I love Coding and Programming, a Javascript fanatic,
+            Outdoors enthusiast, and i'm tech-obsessed!!!
           </p>
         </div>
 
