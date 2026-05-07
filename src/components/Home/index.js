@@ -7,7 +7,7 @@ import Logo from './Logo'
 import './index.scss'
 
 const Home = () => {
-  const [letterClass, setLetterClass] = useState('text-animate')
+  const [letterClass] = useState('text-animate')
 
   const nameArray = ['o', 'b', 'i', '.', 'j', 's']
   const jobArray = [
